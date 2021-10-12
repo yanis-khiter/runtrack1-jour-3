@@ -1,0 +1,71 @@
+/*STYLES GENERAUX*/
+
+h1{
+    color: black;
+    font-family:fantasy;
+    align-content: center;
+    
+}
+h1{
+    text-align: center;
+    align-content: center;
+   
+    
+}
+
+h2{
+    text-align: center;
+    
+    
+  }
+  
+  
+  
+  
+  
+  
+h1{
+    display: flex;
+    justify-content:center;
+    
+    
+    
+  }
+  
+  img {
+    width: 200px;
+    position: sticky;
+    align-content: center;
+    
+  }
+  
+  *{
+      font-family: fantasy;
+      color: black;
+
+
+  }
+
+  
+
+    .photo img{
+        border-radius: 50%;
+        image-rendering: auto;
+        align-content: center;
+  
+      }
+
+      .photo img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto }
+
+        body{
+          background-image: url("fond3.jpeg");
+        }
+
+
+        
+
+    
+    

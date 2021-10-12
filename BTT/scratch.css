@@ -1,0 +1,69 @@
+h2 {
+  color: cornflowerblue;
+}
+p {
+  color: crimson;
+}
+
+
+  
+
+.prez{
+  text-align: center;
+  
+
+}
+
+
+*{
+
+  font-family:sans-serif;
+  color: black;
+  
+  
+  
+  
+  
+}
+
+.prez2{
+  text-align: center;
+  font-family: sans-serif;
+  color: black;
+  
+}
+
+.desc{
+  text-align: center;
+  font-family: fantasy;
+  color: gold;
+  
+}
+
+.presentation{
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  color: ghostwhite;
+}
+
+img {
+	width: 550px;
+	height: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto 
+  
+  }
+  
+  img{
+    border-radius: 30px;
+  }
+  
+
+  
+
+  body{
+    background-image: url("cool-background.svg");
+  }
+
+  

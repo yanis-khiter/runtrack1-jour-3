@@ -1,0 +1,82 @@
+h1 {
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    background-color: cornflowerblue;
+    color:darkblue;
+    text-align: center;
+    border-style: ridge;
+}
+
+
+h3 {
+    color: gold;
+}
+
+
+.photo {
+display: block;
+margin-left: auto;
+margin-right: auto;
+    border-radius: 50%;
+    margin-top: 1%;
+    width: 200px;
+}
+
+
+.profil {
+    text-align: center;
+}
+
+.detf {
+    background-color: black;
+    text-align: center;
+}
+
+
+.metiers {
+    text-align: center;
+}
+
+
+.compet {
+    background-color: black;
+    text-align: center ;
+}
+
+
+.comp {
+    text-align: center;
+}
+
+
+.langues {
+    background-color: black;
+    text-align: center ;
+}
+
+
+.lang {
+    text-align: center;
+}
+.lang img {
+    border-radius: 50%;
+    margin-top: 1%;
+}
+
+
+.centres {
+    background-color: black;
+    text-align: center ;
+}
+.sport {
+    text-align: center;
+}
+.sport img {
+    width: 500px;
+    border-radius: 50%;
+    margin-top: 1%;
+}
+
+
+body {
+    background-color: grey;
+}
